@@ -1,0 +1,11 @@
+{
+  "name": "mongo-mongoose-hw",
+  "version": "1.0.0",
+  "description": "MongoDB, Mongoose, NodeJS Homework",
+  "main": "index.js",
+  "author": "Nikola Angelov",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "2.2.10"
+  }
+}
